@@ -204,13 +204,6 @@ We welcome contributions from the community! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub Issues**: [https://github.com/your-username/KADD-AI/issues]
-- **Documentation**: [https://github.com/your-username/KADD-AI/docs]
-
 ## Acknowledgments
 
 - YOLOv5 community for the object detection model
@@ -220,4 +213,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with love for quality assurance in manufacturing**
